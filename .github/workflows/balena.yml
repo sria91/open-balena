@@ -11,7 +11,7 @@ env:
   # nested virtualisation not supported on AWS/EC2 instance types|classes other than X.metal
   AWS_EC2_INSTANCE_TYPE: c5n.xlarge
   AWS_EC2_LAUNCH_TEMPLATE: lt-011a66522ae6c5754
-  AWS_EC2_LT_VERSION: 1
+  AWS_EC2_LT_VERSION: 6
   AWS_IAM_USERNAME: balena-tests-iam-User-1GXO3XP12N6LL
   AWS_REGION: us-east-1
   AWS_VPC_SECURITY_GROUP_IDS: sg-093fa6ade710210ab
